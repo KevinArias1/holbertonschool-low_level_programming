@@ -1,4 +1,4 @@
-#include <stdio.n>
+#include <stdio.h>
 /**
  * main - A program that prints a linewith function
  * Return: 0 (success)
