@@ -6,12 +6,21 @@
 
 int main(void)
 {
-int i = 0;
-  
-  while (i < 16) {
-	      putchar (i);
-	          
-		    }
-    
-    return 0;
+	char c;
+
+	int d;
+
+	c= 'a';
+	d= 0;
+	while
+		(d < 10) {
+			putchar(d + '0');
+		}
+	while
+		(c <= 'f') {
+			putchar(c);
+			c++;
+		}
+	putchar('\n');
+	return (0);
 }
