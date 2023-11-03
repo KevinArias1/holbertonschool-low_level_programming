@@ -10,7 +10,7 @@ int i = 0;
   
   while (i < 16) {
 	      putchar (i);
-	          i++;
+	          
 		    }
     
     return 0;
