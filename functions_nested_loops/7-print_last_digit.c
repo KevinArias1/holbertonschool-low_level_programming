@@ -1,3 +1,4 @@
+#include "main.h"
 /**
  * print_last_digit - check the code
  * @num: num to get the last digit
