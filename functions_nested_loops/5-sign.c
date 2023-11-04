@@ -1,4 +1,3 @@
-#include "main.h"
 /**
  * print_sing - print sing of a number
  * @n - funtion parametre
