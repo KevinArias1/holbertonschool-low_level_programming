@@ -1,6 +1,6 @@
 #include "main.h"
 #include <stdlib.h>
-#include <stdio.h>
+
 /**
  * print_last_digit - check the code
  * @n: num to get the last digit
