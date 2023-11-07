@@ -12,6 +12,8 @@ int result = n % 10;
 if (n < 0)
 {
 result = 10 - result;
+_putchar(result + '0');
+ 
 }
 _putchar(result + '0');
 return (result);
